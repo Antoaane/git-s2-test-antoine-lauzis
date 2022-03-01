@@ -1,2 +1,2 @@
 # git-s2-test-antoine-lauzis
-class project
+class project modif
